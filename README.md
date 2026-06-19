@@ -1,4 +1,4 @@
-# 🔐 Decentralized Cryptocurrency Wallet System
+﻿# 🔐 Decentralized Cryptocurrency Wallet System
 
 **A complete blockchain-based cryptocurrency wallet application with user authentication, wallet management, UTXO transactions, mining, zakat calculation, and admin panel.**
 
@@ -12,6 +12,18 @@
 - 📖 **Documentation**: See sections below
 
 ---
+
+
+## ðŸ–¼ï¸ Screenshots
+
+![Screenshot](assets/Screenshot%202026-06-18%20220733.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20220919.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20220954.png)
+
+![Screenshot](assets/Screenshot%202026-06-18%20221030.png)
+
 
 ## 🎯 Project Overview
 
@@ -698,5 +710,3 @@ For issues or questions:
 ![Screenshot](assets/Screenshot%202026-06-18%20220954.png)
 
 ![Screenshot](assets/Screenshot%202026-06-18%20221030.png)
-
-
