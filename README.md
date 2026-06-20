@@ -13,8 +13,7 @@
 
 ---
 
-
-## ðŸ–¼ï¸ Screenshots
+## 🖼️ Screenshots
 
 ![Screenshot](assets/Screenshot%202026-06-18%20220733.png)
 
@@ -700,13 +699,3 @@ For issues or questions:
 **Last Updated**: December 8, 2025  
 **Status**: ✅ All Features Complete & Production Ready  
 **Next Phase**: User testing and optimization
-
-## 🖼️ Screenshots
-
-![Screenshot](assets/Screenshot%202026-06-18%20220733.png)
-
-![Screenshot](assets/Screenshot%202026-06-18%20220919.png)
-
-![Screenshot](assets/Screenshot%202026-06-18%20220954.png)
-
-![Screenshot](assets/Screenshot%202026-06-18%20221030.png)
